@@ -35,8 +35,8 @@ const App = () => {
     >
       <View>滚动实现瀑布流</View>
       <Waterfall
-        columnWidth={150}
-        columnCount={4}
+        columnWidth={125}
+        columnCount={3}
         columnGap={50}
         dataSource={dataSource}
         renderHeader={() => {
