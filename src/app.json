@@ -1,9 +1,9 @@
 {
   "routes": [
     {
-      "title": "Home Page",
-      "path": "/home",
-      "source": "pages/Home"
+      "title": "ScrollView",
+      "path": "/scrollView",
+      "source": "pages/scrollView"
     },
     {
       "title": "Test Page",

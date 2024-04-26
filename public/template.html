@@ -6,7 +6,19 @@
     <link rel="icon" href="./favicon.ico" type="image/x-icon" />
     <% if (meta) { %> <%- meta %> <% } %>
     <title><%= title %></title>
+    <style>
+      *{
+        margin: 0;
+        padding: 0;
+      }
+      html,body,#root{
+        height: 100vh;
+        overflow: hidden;
+      }
+      
+    </style>
   </head>
+
   <body>
     <div id="root"></div>
 

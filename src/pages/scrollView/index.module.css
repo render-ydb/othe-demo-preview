@@ -1,0 +1,13 @@
+.btnContainer {
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.scrollView {
+    height: 600px;
+    background-color: #369;
+   
+}
+.scrollView p {
+    margin-bottom: 20px;
+}
