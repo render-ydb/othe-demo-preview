@@ -6,9 +6,9 @@
       "source": "pages/scrollView"
     },
     {
-      "title": "Test Page",
-      "path": "/test",
-      "source": "pages/Test"
+      "title": "Waterfall",
+      "path": "/waterfall",
+      "source": "pages/waterfall"
     }
   ],
   "window": {
